@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>FamilyManager</Name>
+		<Assembly>FamilyManager.dll</Assembly>
+		<AddInId>
+			78CBAD1F-68C3-4FBA-9D31-819A4061D383
+		</AddInId>
+		<FullClassName>FamilyManager.Applications.RevitCommand</FullClassName>
+		<Text>FamilyManager</Text>
+		<Description>FamilyManager</Description>
+		<VendorId>ITI</VendorId>
+		<VendorDescription>@ITI</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+
+	
+	<AddIn Type="Application">
+		<Name>FamilyManager</Name>
+		<Assembly>FamilyManager.dll</Assembly>
+		<AddInId>
+			C664410A-4232-431B-AC72-D4C582421C2B
+		</AddInId>
+		<FullClassName>FamilyManager.Applications.ExternalApplicationNew</FullClassName>
+		<Text>FamilyManager</Text>
+		<Description>FamilyManager</Description>
+		<VendorId>ITI</VendorId>
+		<VendorDescription>@ITI</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+
+</RevitAddIns>

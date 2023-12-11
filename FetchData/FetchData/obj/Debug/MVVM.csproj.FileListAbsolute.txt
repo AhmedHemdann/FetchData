@@ -1,0 +1,8 @@
+D:\ITI\Projects BIMAD\Templates\Template MVVM\MVVM\MVVM\obj\Debug\MVVM.csproj.AssemblyReference.cache
+D:\ITI\Projects BIMAD\Templates\Template MVVM\MVVM\MVVM\bin\Debug\MVVM.dll
+D:\ITI\Projects BIMAD\Templates\Template MVVM\MVVM\MVVM\bin\Debug\MVVM.pdb
+D:\ITI\Projects BIMAD\Templates\Template MVVM\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+D:\ITI\Projects BIMAD\Templates\Template MVVM\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.cache
+D:\ITI\Projects BIMAD\Templates\Template MVVM\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+D:\ITI\Projects BIMAD\Templates\Template MVVM\MVVM\MVVM\obj\Debug\MVVM.dll
+D:\ITI\Projects BIMAD\Templates\Template MVVM\MVVM\MVVM\obj\Debug\MVVM.pdb

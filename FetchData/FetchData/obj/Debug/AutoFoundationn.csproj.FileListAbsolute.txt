@@ -1,0 +1,5 @@
+C:\Other Data\Working BIM AD\Ali Yehia\AutoFoundationn\AutoFoundationn\obj\Debug\AutoFoundationn.csproj.AssemblyReference.cache
+C:\Other Data\Working BIM AD\Ali Yehia\AutoFoundationn\AutoFoundationn\obj\Debug\Style\Styles.g.cs
+C:\Other Data\Working BIM AD\Ali Yehia\AutoFoundationn\AutoFoundationn\obj\Debug\View\FoundationWindowView.g.cs
+C:\Other Data\Working BIM AD\Ali Yehia\AutoFoundationn\AutoFoundationn\obj\Debug\AutoFoundationn_MarkupCompile.cache
+C:\Other Data\Working BIM AD\Ali Yehia\AutoFoundationn\AutoFoundationn\obj\Debug\AutoFoundationn_MarkupCompile.lref
